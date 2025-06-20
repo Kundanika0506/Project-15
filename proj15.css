@@ -324,7 +324,7 @@
     gap: 40px;
     justify-content: center;
     align-items: center;
-    margin-left: 210px;
+    margin-left: 220px;
 
 }
 #icons img{
@@ -454,8 +454,5 @@
     }
     #icons{
         margin-left: 180px;
-    }
-
-        
-    
+    }  
 }
